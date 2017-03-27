@@ -777,9 +777,9 @@
           </object>
         </object-param>
         <object-param>
-          <name>Leave_Planning</name>
+          <name>????</name>
           <object type="org.exoplatform.wiki.mow.api.Template">
-            <field name="name"><string>Leave_Planning</string></field>
+            <field name="name"><string>????</string></field>
             <field name="title"><string>????</string></field>
             <field name="description"><string>Global</string></field>
             <field name="sourceFilePath"><string>war:/conf/wiki/data/templates/Leave_Planning.tmpl</string></field>
